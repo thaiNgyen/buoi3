@@ -1,0 +1,11 @@
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\bin\Debug\buoi3.exe.config
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\bin\Debug\buoi3.exe
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\bin\Debug\buoi3.pdb
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\obj\Debug\buoi3.csproj.AssemblyReference.cache
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\obj\Debug\buoi3.Form1.resources
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\obj\Debug\buoi3.Properties.Resources.resources
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\obj\Debug\buoi3.csproj.GenerateResource.cache
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\obj\Debug\buoi3.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\obj\Debug\buoi3.exe
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\obj\Debug\buoi3.pdb
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi3\buoi3\obj\Debug\buoi3.Form2.resources
